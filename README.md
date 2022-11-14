@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @kumsa-Mergia
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science in Ambo University
+                                           
+                                      👋 Hi, I’m kumsa from Ethiopia Computer Science Student in Ambo University
+
+- 👀 I’m interested in Web Development
+- 🌱 
 - 💞️ I’m looking to collaborate on project
 
 <!---
