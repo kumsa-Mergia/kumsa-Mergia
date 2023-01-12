@@ -1,11 +1,11 @@
                                            
-                                      👋 Hi, I’m kumsa from Ethiopia Computer Science Student in Ambo University
+                       👋 Hi, I’m kumsa from Ethiopia Computer Science Student in Ambo University
 
-- 👀 I’m interested in Web Development
+- 👀 I’m junior Web Developer
 - 🌱 
-- 💞️ I’m looking to collaborate on project
+- Interested in Front-End Web Development
+- 💞️ 
 
 <!---
-kumsa-Mergia/kumsa-Mergia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+✨ Big Love ✨ 
 --->
