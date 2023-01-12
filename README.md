@@ -1,5 +1,5 @@
                                            
-                       👋 Hi, I’m kumsa from Ethiopia Computer Science Student in Ambo University
+      👋 Hi, I’m kumsa from Ethiopia Computer Science Student in Ambo University
 
 - 👀 I’m junior Web Developer
 - 🌱 
