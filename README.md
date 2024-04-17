@@ -1,9 +1,7 @@
                                            
-      👋 Hi, I’m kumsa from Ethiopia Computer Science Student in Ambo University
+      👋 Hi, I’m kumsa from Ethiopia
 
-- 👀 I’m junior Web Developer
-- 🌱 
-- Interested in Front-End Web Development
+- 👀 
 - 💞️ 
 
 <!---
